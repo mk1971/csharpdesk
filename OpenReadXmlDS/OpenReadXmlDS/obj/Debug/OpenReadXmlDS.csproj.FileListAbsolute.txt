@@ -1,0 +1,9 @@
+D:\csharp\OpenReadXmlDS\OpenReadXmlDS\bin\Debug\OpenReadXmlDS.exe.config
+D:\csharp\OpenReadXmlDS\OpenReadXmlDS\bin\Debug\OpenReadXmlDS.exe
+D:\csharp\OpenReadXmlDS\OpenReadXmlDS\bin\Debug\OpenReadXmlDS.pdb
+D:\csharp\OpenReadXmlDS\OpenReadXmlDS\obj\Debug\OpenReadXmlDS.Form1.resources
+D:\csharp\OpenReadXmlDS\OpenReadXmlDS\obj\Debug\OpenReadXmlDS.Properties.Resources.resources
+D:\csharp\OpenReadXmlDS\OpenReadXmlDS\obj\Debug\OpenReadXmlDS.csproj.GenerateResource.cache
+D:\csharp\OpenReadXmlDS\OpenReadXmlDS\obj\Debug\OpenReadXmlDS.csproj.CoreCompileInputs.cache
+D:\csharp\OpenReadXmlDS\OpenReadXmlDS\obj\Debug\OpenReadXmlDS.exe
+D:\csharp\OpenReadXmlDS\OpenReadXmlDS\obj\Debug\OpenReadXmlDS.pdb
