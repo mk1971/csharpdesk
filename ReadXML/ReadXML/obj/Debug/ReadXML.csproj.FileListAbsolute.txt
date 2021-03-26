@@ -1,0 +1,9 @@
+D:\csharp\ReadXML\ReadXML\bin\Debug\ReadXML.exe.config
+D:\csharp\ReadXML\ReadXML\bin\Debug\ReadXML.exe
+D:\csharp\ReadXML\ReadXML\bin\Debug\ReadXML.pdb
+D:\csharp\ReadXML\ReadXML\obj\Debug\ReadXML.Form1.resources
+D:\csharp\ReadXML\ReadXML\obj\Debug\ReadXML.Properties.Resources.resources
+D:\csharp\ReadXML\ReadXML\obj\Debug\ReadXML.csproj.GenerateResource.cache
+D:\csharp\ReadXML\ReadXML\obj\Debug\ReadXML.csproj.CoreCompileInputs.cache
+D:\csharp\ReadXML\ReadXML\obj\Debug\ReadXML.exe
+D:\csharp\ReadXML\ReadXML\obj\Debug\ReadXML.pdb
