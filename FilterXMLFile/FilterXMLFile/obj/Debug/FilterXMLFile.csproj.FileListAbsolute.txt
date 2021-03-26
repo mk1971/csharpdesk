@@ -1,0 +1,9 @@
+D:\csharp\FilterXMLFile\FilterXMLFile\obj\Debug\FilterXMLFile.Form1.resources
+D:\csharp\FilterXMLFile\FilterXMLFile\obj\Debug\FilterXMLFile.Properties.Resources.resources
+D:\csharp\FilterXMLFile\FilterXMLFile\obj\Debug\FilterXMLFile.csproj.GenerateResource.cache
+D:\csharp\FilterXMLFile\FilterXMLFile\obj\Debug\FilterXMLFile.csproj.CoreCompileInputs.cache
+D:\csharp\FilterXMLFile\FilterXMLFile\bin\Debug\FilterXMLFile.exe.config
+D:\csharp\FilterXMLFile\FilterXMLFile\bin\Debug\FilterXMLFile.exe
+D:\csharp\FilterXMLFile\FilterXMLFile\bin\Debug\FilterXMLFile.pdb
+D:\csharp\FilterXMLFile\FilterXMLFile\obj\Debug\FilterXMLFile.exe
+D:\csharp\FilterXMLFile\FilterXMLFile\obj\Debug\FilterXMLFile.pdb

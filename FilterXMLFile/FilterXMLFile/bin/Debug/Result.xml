@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Product>
+    <Product_id>3</Product_id>
+    <Product_name>Product 3</Product_name>
+    <Product_price>3000</Product_price>
+  </Product>
+  <Product>
+    <Product_id>4</Product_id>
+    <Product_name>Product 4</Product_name>
+    <Product_price>4000</Product_price>
+  </Product>
+</DocumentElement>
