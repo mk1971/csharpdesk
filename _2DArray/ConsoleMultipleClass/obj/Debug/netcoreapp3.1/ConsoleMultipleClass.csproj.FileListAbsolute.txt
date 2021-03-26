@@ -1,0 +1,13 @@
+D:\csharp\_2DArray\ConsoleMultipleClass\obj\Debug\netcoreapp3.1\ConsoleMultipleClass.AssemblyInfoInputs.cache
+D:\csharp\_2DArray\ConsoleMultipleClass\obj\Debug\netcoreapp3.1\ConsoleMultipleClass.AssemblyInfo.cs
+D:\csharp\_2DArray\ConsoleMultipleClass\obj\Debug\netcoreapp3.1\ConsoleMultipleClass.csproj.CoreCompileInputs.cache
+D:\csharp\_2DArray\ConsoleMultipleClass\bin\Debug\netcoreapp3.1\ConsoleMultipleClass.exe
+D:\csharp\_2DArray\ConsoleMultipleClass\bin\Debug\netcoreapp3.1\ConsoleMultipleClass.deps.json
+D:\csharp\_2DArray\ConsoleMultipleClass\bin\Debug\netcoreapp3.1\ConsoleMultipleClass.runtimeconfig.json
+D:\csharp\_2DArray\ConsoleMultipleClass\bin\Debug\netcoreapp3.1\ConsoleMultipleClass.runtimeconfig.dev.json
+D:\csharp\_2DArray\ConsoleMultipleClass\bin\Debug\netcoreapp3.1\ConsoleMultipleClass.dll
+D:\csharp\_2DArray\ConsoleMultipleClass\bin\Debug\netcoreapp3.1\ConsoleMultipleClass.pdb
+D:\csharp\_2DArray\ConsoleMultipleClass\obj\Debug\netcoreapp3.1\ConsoleMultipleClass.csprojAssemblyReference.cache
+D:\csharp\_2DArray\ConsoleMultipleClass\obj\Debug\netcoreapp3.1\ConsoleMultipleClass.dll
+D:\csharp\_2DArray\ConsoleMultipleClass\obj\Debug\netcoreapp3.1\ConsoleMultipleClass.pdb
+D:\csharp\_2DArray\ConsoleMultipleClass\obj\Debug\netcoreapp3.1\ConsoleMultipleClass.genruntimeconfig.cache
