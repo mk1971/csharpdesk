@@ -1,0 +1,9 @@
+D:\csharp\Textreader02\Textreader02\bin\Debug\Textreader02.exe.config
+D:\csharp\Textreader02\Textreader02\bin\Debug\Textreader02.exe
+D:\csharp\Textreader02\Textreader02\bin\Debug\Textreader02.pdb
+D:\csharp\Textreader02\Textreader02\obj\Debug\Textreader02.Form1.resources
+D:\csharp\Textreader02\Textreader02\obj\Debug\Textreader02.Properties.Resources.resources
+D:\csharp\Textreader02\Textreader02\obj\Debug\Textreader02.csproj.GenerateResource.cache
+D:\csharp\Textreader02\Textreader02\obj\Debug\Textreader02.csproj.CoreCompileInputs.cache
+D:\csharp\Textreader02\Textreader02\obj\Debug\Textreader02.exe
+D:\csharp\Textreader02\Textreader02\obj\Debug\Textreader02.pdb
