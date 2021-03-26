@@ -1,0 +1,9 @@
+D:\csharp\BinaryReader01\BinaryReader01\bin\Debug\BinaryReader01.exe.config
+D:\csharp\BinaryReader01\BinaryReader01\bin\Debug\BinaryReader01.exe
+D:\csharp\BinaryReader01\BinaryReader01\bin\Debug\BinaryReader01.pdb
+D:\csharp\BinaryReader01\BinaryReader01\obj\Debug\BinaryReader01.Form1.resources
+D:\csharp\BinaryReader01\BinaryReader01\obj\Debug\BinaryReader01.Properties.Resources.resources
+D:\csharp\BinaryReader01\BinaryReader01\obj\Debug\BinaryReader01.csproj.GenerateResource.cache
+D:\csharp\BinaryReader01\BinaryReader01\obj\Debug\BinaryReader01.csproj.CoreCompileInputs.cache
+D:\csharp\BinaryReader01\BinaryReader01\obj\Debug\BinaryReader01.exe
+D:\csharp\BinaryReader01\BinaryReader01\obj\Debug\BinaryReader01.pdb
