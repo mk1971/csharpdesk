@@ -1,0 +1,13 @@
+D:\csharp\TimeZoneSample\TimeZoneSample\bin\Debug\netcoreapp3.1\TimeZoneSample.exe
+D:\csharp\TimeZoneSample\TimeZoneSample\bin\Debug\netcoreapp3.1\TimeZoneSample.deps.json
+D:\csharp\TimeZoneSample\TimeZoneSample\bin\Debug\netcoreapp3.1\TimeZoneSample.runtimeconfig.json
+D:\csharp\TimeZoneSample\TimeZoneSample\bin\Debug\netcoreapp3.1\TimeZoneSample.runtimeconfig.dev.json
+D:\csharp\TimeZoneSample\TimeZoneSample\bin\Debug\netcoreapp3.1\TimeZoneSample.dll
+D:\csharp\TimeZoneSample\TimeZoneSample\bin\Debug\netcoreapp3.1\TimeZoneSample.pdb
+D:\csharp\TimeZoneSample\TimeZoneSample\obj\Debug\netcoreapp3.1\TimeZoneSample.csprojAssemblyReference.cache
+D:\csharp\TimeZoneSample\TimeZoneSample\obj\Debug\netcoreapp3.1\TimeZoneSample.AssemblyInfoInputs.cache
+D:\csharp\TimeZoneSample\TimeZoneSample\obj\Debug\netcoreapp3.1\TimeZoneSample.AssemblyInfo.cs
+D:\csharp\TimeZoneSample\TimeZoneSample\obj\Debug\netcoreapp3.1\TimeZoneSample.csproj.CoreCompileInputs.cache
+D:\csharp\TimeZoneSample\TimeZoneSample\obj\Debug\netcoreapp3.1\TimeZoneSample.dll
+D:\csharp\TimeZoneSample\TimeZoneSample\obj\Debug\netcoreapp3.1\TimeZoneSample.pdb
+D:\csharp\TimeZoneSample\TimeZoneSample\obj\Debug\netcoreapp3.1\TimeZoneSample.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeZoneSample", "TimeZoneSample\TimeZoneSample.csproj", "{AE3FFEA7-7DCF-4941-92E4-EDF49753DFCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE3FFEA7-7DCF-4941-92E4-EDF49753DFCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE3FFEA7-7DCF-4941-92E4-EDF49753DFCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE3FFEA7-7DCF-4941-92E4-EDF49753DFCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE3FFEA7-7DCF-4941-92E4-EDF49753DFCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04F69D9F-9B56-42CB-8193-52441E408C6A}
+	EndGlobalSection
+EndGlobal
