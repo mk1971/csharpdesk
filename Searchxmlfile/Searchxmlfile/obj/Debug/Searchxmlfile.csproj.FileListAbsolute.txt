@@ -1,0 +1,9 @@
+D:\csharp\Searchxmlfile\Searchxmlfile\bin\Debug\Searchxmlfile.exe.config
+D:\csharp\Searchxmlfile\Searchxmlfile\bin\Debug\Searchxmlfile.exe
+D:\csharp\Searchxmlfile\Searchxmlfile\bin\Debug\Searchxmlfile.pdb
+D:\csharp\Searchxmlfile\Searchxmlfile\obj\Debug\Searchxmlfile.Form1.resources
+D:\csharp\Searchxmlfile\Searchxmlfile\obj\Debug\Searchxmlfile.Properties.Resources.resources
+D:\csharp\Searchxmlfile\Searchxmlfile\obj\Debug\Searchxmlfile.csproj.GenerateResource.cache
+D:\csharp\Searchxmlfile\Searchxmlfile\obj\Debug\Searchxmlfile.csproj.CoreCompileInputs.cache
+D:\csharp\Searchxmlfile\Searchxmlfile\obj\Debug\Searchxmlfile.exe
+D:\csharp\Searchxmlfile\Searchxmlfile\obj\Debug\Searchxmlfile.pdb
