@@ -1,0 +1,9 @@
+D:\csharp\OpenReadXMLFileDataset\OpenReadXMLFileDataset\bin\Debug\OpenReadXMLFileDataset.exe.config
+D:\csharp\OpenReadXMLFileDataset\OpenReadXMLFileDataset\bin\Debug\OpenReadXMLFileDataset.exe
+D:\csharp\OpenReadXMLFileDataset\OpenReadXMLFileDataset\bin\Debug\OpenReadXMLFileDataset.pdb
+D:\csharp\OpenReadXMLFileDataset\OpenReadXMLFileDataset\obj\Debug\OpenReadXMLFileDataset.Form1.resources
+D:\csharp\OpenReadXMLFileDataset\OpenReadXMLFileDataset\obj\Debug\OpenReadXMLFileDataset.Properties.Resources.resources
+D:\csharp\OpenReadXMLFileDataset\OpenReadXMLFileDataset\obj\Debug\OpenReadXMLFileDataset.csproj.GenerateResource.cache
+D:\csharp\OpenReadXMLFileDataset\OpenReadXMLFileDataset\obj\Debug\OpenReadXMLFileDataset.csproj.CoreCompileInputs.cache
+D:\csharp\OpenReadXMLFileDataset\OpenReadXMLFileDataset\obj\Debug\OpenReadXMLFileDataset.exe
+D:\csharp\OpenReadXMLFileDataset\OpenReadXMLFileDataset\obj\Debug\OpenReadXMLFileDataset.pdb
