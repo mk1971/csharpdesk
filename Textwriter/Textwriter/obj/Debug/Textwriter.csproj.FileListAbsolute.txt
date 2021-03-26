@@ -1,0 +1,9 @@
+D:\csharp\Textwriter\Textwriter\bin\Debug\Textwriter.exe.config
+D:\csharp\Textwriter\Textwriter\bin\Debug\Textwriter.exe
+D:\csharp\Textwriter\Textwriter\bin\Debug\Textwriter.pdb
+D:\csharp\Textwriter\Textwriter\obj\Debug\Textwriter.Form1.resources
+D:\csharp\Textwriter\Textwriter\obj\Debug\Textwriter.Properties.Resources.resources
+D:\csharp\Textwriter\Textwriter\obj\Debug\Textwriter.csproj.GenerateResource.cache
+D:\csharp\Textwriter\Textwriter\obj\Debug\Textwriter.csproj.CoreCompileInputs.cache
+D:\csharp\Textwriter\Textwriter\obj\Debug\Textwriter.exe
+D:\csharp\Textwriter\Textwriter\obj\Debug\Textwriter.pdb
