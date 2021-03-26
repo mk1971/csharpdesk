@@ -1,0 +1,10 @@
+D:\csharp\FileClass\FileClass\obj\Debug\FileClass.csprojAssemblyReference.cache
+D:\csharp\FileClass\FileClass\obj\Debug\FileClass.Form1.resources
+D:\csharp\FileClass\FileClass\obj\Debug\FileClass.Properties.Resources.resources
+D:\csharp\FileClass\FileClass\obj\Debug\FileClass.csproj.GenerateResource.cache
+D:\csharp\FileClass\FileClass\obj\Debug\FileClass.csproj.CoreCompileInputs.cache
+D:\csharp\FileClass\FileClass\bin\Debug\FileClass.exe.config
+D:\csharp\FileClass\FileClass\bin\Debug\FileClass.exe
+D:\csharp\FileClass\FileClass\bin\Debug\FileClass.pdb
+D:\csharp\FileClass\FileClass\obj\Debug\FileClass.exe
+D:\csharp\FileClass\FileClass\obj\Debug\FileClass.pdb
