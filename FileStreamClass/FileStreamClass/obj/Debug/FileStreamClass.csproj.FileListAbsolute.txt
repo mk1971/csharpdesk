@@ -1,0 +1,9 @@
+D:\csharp\FileStreamClass\FileStreamClass\bin\Debug\FileStreamClass.exe.config
+D:\csharp\FileStreamClass\FileStreamClass\bin\Debug\FileStreamClass.exe
+D:\csharp\FileStreamClass\FileStreamClass\bin\Debug\FileStreamClass.pdb
+D:\csharp\FileStreamClass\FileStreamClass\obj\Debug\FileStreamClass.Form1.resources
+D:\csharp\FileStreamClass\FileStreamClass\obj\Debug\FileStreamClass.Properties.Resources.resources
+D:\csharp\FileStreamClass\FileStreamClass\obj\Debug\FileStreamClass.csproj.GenerateResource.cache
+D:\csharp\FileStreamClass\FileStreamClass\obj\Debug\FileStreamClass.csproj.CoreCompileInputs.cache
+D:\csharp\FileStreamClass\FileStreamClass\obj\Debug\FileStreamClass.exe
+D:\csharp\FileStreamClass\FileStreamClass\obj\Debug\FileStreamClass.pdb
