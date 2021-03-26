@@ -1,0 +1,10 @@
+D:\csharp\ProgressBar\ProgressBar\bin\Debug\ProgressBar.exe.config
+D:\csharp\ProgressBar\ProgressBar\bin\Debug\ProgressBar.exe
+D:\csharp\ProgressBar\ProgressBar\bin\Debug\ProgressBar.pdb
+D:\csharp\ProgressBar\ProgressBar\obj\Debug\ProgressBar.csprojAssemblyReference.cache
+D:\csharp\ProgressBar\ProgressBar\obj\Debug\ProgressBar.Form1.resources
+D:\csharp\ProgressBar\ProgressBar\obj\Debug\ProgressBar.Properties.Resources.resources
+D:\csharp\ProgressBar\ProgressBar\obj\Debug\ProgressBar.csproj.GenerateResource.cache
+D:\csharp\ProgressBar\ProgressBar\obj\Debug\ProgressBar.csproj.CoreCompileInputs.cache
+D:\csharp\ProgressBar\ProgressBar\obj\Debug\ProgressBar.exe
+D:\csharp\ProgressBar\ProgressBar\obj\Debug\ProgressBar.pdb
