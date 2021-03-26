@@ -1,0 +1,9 @@
+D:\csharp\DynamicControls\DynamicControls\bin\Debug\DynamicControls.exe.config
+D:\csharp\DynamicControls\DynamicControls\bin\Debug\DynamicControls.exe
+D:\csharp\DynamicControls\DynamicControls\bin\Debug\DynamicControls.pdb
+D:\csharp\DynamicControls\DynamicControls\obj\Debug\DynamicControls.Form1.resources
+D:\csharp\DynamicControls\DynamicControls\obj\Debug\DynamicControls.Properties.Resources.resources
+D:\csharp\DynamicControls\DynamicControls\obj\Debug\DynamicControls.csproj.GenerateResource.cache
+D:\csharp\DynamicControls\DynamicControls\obj\Debug\DynamicControls.csproj.CoreCompileInputs.cache
+D:\csharp\DynamicControls\DynamicControls\obj\Debug\DynamicControls.exe
+D:\csharp\DynamicControls\DynamicControls\obj\Debug\DynamicControls.pdb
