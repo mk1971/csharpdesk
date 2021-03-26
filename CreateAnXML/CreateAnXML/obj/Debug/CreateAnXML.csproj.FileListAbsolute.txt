@@ -1,0 +1,9 @@
+D:\csharp\CreateAnXML\CreateAnXML\bin\Debug\CreateAnXML.exe.config
+D:\csharp\CreateAnXML\CreateAnXML\bin\Debug\CreateAnXML.exe
+D:\csharp\CreateAnXML\CreateAnXML\bin\Debug\CreateAnXML.pdb
+D:\csharp\CreateAnXML\CreateAnXML\obj\Debug\CreateAnXML.Form1.resources
+D:\csharp\CreateAnXML\CreateAnXML\obj\Debug\CreateAnXML.Properties.Resources.resources
+D:\csharp\CreateAnXML\CreateAnXML\obj\Debug\CreateAnXML.csproj.GenerateResource.cache
+D:\csharp\CreateAnXML\CreateAnXML\obj\Debug\CreateAnXML.csproj.CoreCompileInputs.cache
+D:\csharp\CreateAnXML\CreateAnXML\obj\Debug\CreateAnXML.exe
+D:\csharp\CreateAnXML\CreateAnXML\obj\Debug\CreateAnXML.pdb
