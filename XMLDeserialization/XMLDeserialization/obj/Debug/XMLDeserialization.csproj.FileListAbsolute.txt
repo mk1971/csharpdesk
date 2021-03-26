@@ -1,0 +1,9 @@
+D:\csharp\XMLDeserialization\XMLDeserialization\bin\Debug\XMLDeserialization.exe.config
+D:\csharp\XMLDeserialization\XMLDeserialization\bin\Debug\XMLDeserialization.exe
+D:\csharp\XMLDeserialization\XMLDeserialization\bin\Debug\XMLDeserialization.pdb
+D:\csharp\XMLDeserialization\XMLDeserialization\obj\Debug\XMLDeserialization.Form1.resources
+D:\csharp\XMLDeserialization\XMLDeserialization\obj\Debug\XMLDeserialization.Properties.Resources.resources
+D:\csharp\XMLDeserialization\XMLDeserialization\obj\Debug\XMLDeserialization.csproj.GenerateResource.cache
+D:\csharp\XMLDeserialization\XMLDeserialization\obj\Debug\XMLDeserialization.csproj.CoreCompileInputs.cache
+D:\csharp\XMLDeserialization\XMLDeserialization\obj\Debug\XMLDeserialization.exe
+D:\csharp\XMLDeserialization\XMLDeserialization\obj\Debug\XMLDeserialization.pdb
