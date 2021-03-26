@@ -1,0 +1,9 @@
+D:\csharp\CreateDirectory\CreateDirectory\bin\Debug\CreateDirectory.exe.config
+D:\csharp\CreateDirectory\CreateDirectory\bin\Debug\CreateDirectory.exe
+D:\csharp\CreateDirectory\CreateDirectory\bin\Debug\CreateDirectory.pdb
+D:\csharp\CreateDirectory\CreateDirectory\obj\Debug\CreateDirectory.Properties.Resources.resources
+D:\csharp\CreateDirectory\CreateDirectory\obj\Debug\CreateDirectory.csproj.GenerateResource.cache
+D:\csharp\CreateDirectory\CreateDirectory\obj\Debug\CreateDirectory.csproj.CoreCompileInputs.cache
+D:\csharp\CreateDirectory\CreateDirectory\obj\Debug\CreateDirectory.exe
+D:\csharp\CreateDirectory\CreateDirectory\obj\Debug\CreateDirectory.pdb
+D:\csharp\CreateDirectory\CreateDirectory\obj\Debug\CreateDirectory.Form1.resources
