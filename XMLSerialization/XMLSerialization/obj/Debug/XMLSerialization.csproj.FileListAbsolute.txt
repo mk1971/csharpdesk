@@ -1,0 +1,9 @@
+D:\csharp\XMLSerialization\XMLSerialization\bin\Debug\XMLSerialization.exe.config
+D:\csharp\XMLSerialization\XMLSerialization\bin\Debug\XMLSerialization.exe
+D:\csharp\XMLSerialization\XMLSerialization\bin\Debug\XMLSerialization.pdb
+D:\csharp\XMLSerialization\XMLSerialization\obj\Debug\XMLSerialization.Form1.resources
+D:\csharp\XMLSerialization\XMLSerialization\obj\Debug\XMLSerialization.Properties.Resources.resources
+D:\csharp\XMLSerialization\XMLSerialization\obj\Debug\XMLSerialization.csproj.GenerateResource.cache
+D:\csharp\XMLSerialization\XMLSerialization\obj\Debug\XMLSerialization.csproj.CoreCompileInputs.cache
+D:\csharp\XMLSerialization\XMLSerialization\obj\Debug\XMLSerialization.exe
+D:\csharp\XMLSerialization\XMLSerialization\obj\Debug\XMLSerialization.pdb
