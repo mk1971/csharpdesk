@@ -1,0 +1,14 @@
+D:\Estudo\SerialNumberHD\SerialNumberHD\bin\Debug\SerialNumberHD.exe.config
+D:\Estudo\SerialNumberHD\SerialNumberHD\bin\Debug\SerialNumberHD.exe
+D:\Estudo\SerialNumberHD\SerialNumberHD\bin\Debug\SerialNumberHD.pdb
+D:\Estudo\SerialNumberHD\SerialNumberHD\obj\Debug\SerialNumberHD.csprojAssemblyReference.cache
+D:\Estudo\SerialNumberHD\SerialNumberHD\obj\Debug\SerialNumberHD.frmHDSN.resources
+D:\Estudo\SerialNumberHD\SerialNumberHD\obj\Debug\SerialNumberHD.Properties.Resources.resources
+D:\Estudo\SerialNumberHD\SerialNumberHD\obj\Debug\SerialNumberHD.csproj.GenerateResource.cache
+D:\Estudo\SerialNumberHD\SerialNumberHD\obj\Debug\SerialNumberHD.csproj.CoreCompileInputs.cache
+D:\Estudo\SerialNumberHD\SerialNumberHD\obj\Debug\SerialNumberHD.exe
+D:\Estudo\SerialNumberHD\SerialNumberHD\obj\Debug\SerialNumberHD.pdb
+D:\Estudo\SerialNumberHD\SerialNumberHD\bin\Debug\SerialNumberHD.exe.manifest
+D:\Estudo\SerialNumberHD\SerialNumberHD\bin\Debug\SerialNumberHD.application
+D:\Estudo\SerialNumberHD\SerialNumberHD\obj\Debug\SerialNumberHD.exe.manifest
+D:\Estudo\SerialNumberHD\SerialNumberHD\obj\Debug\SerialNumberHD.application

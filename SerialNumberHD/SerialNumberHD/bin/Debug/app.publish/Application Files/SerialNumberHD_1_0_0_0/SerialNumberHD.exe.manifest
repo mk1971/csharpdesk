@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="SerialNumberHD.exe" version="1.0.0.0" publicKeyToken="93dc74dc74b0f1c5" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="SerialNumberHD" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="SerialNumberHD.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Opções de Manifesto do UAC
+          Para alterar o nível de Controle de Conta de Usuário do Windows, substitua o nó
+          requestedExecutionLevel por um dos seguintes.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Para utilizar a Virtualização de Arquivos e Registro para manter a compatibilidade com versões anteriores,
+         exclua o nó requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SerialNumberHD.exe" size="10760">
+      <assemblyIdentity name="SerialNumberHD" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>y3rup54q7F2e7dQvuUJjvLtt6Q9wOKNI90K1U+nQ6l8=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="SerialNumberHD.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-4F5NR30\Emerson Maki" issuerKeyHash="10a7729ef350bb26ece11db5385f03332e22b5c5" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>Q9L9xj7vz2tXjlzcVCb6MW9THFNL9xbS6h6ZKJsKNrk=</DigestValue></Reference></SignedInfo><SignatureValue>iXUrOqxZ2uHSKsRhqt91lHdkjx0G4+79J8HoYuOTCKLQimGYGWprp0U2Hu3KepJJR5lc7EoOoe8QpBIBj5p6sj3k0ViZu9i0LEg+ZZvbyOLnXK8I5hVcpKZzgpE7Y7g/KYZ2rK6E8W+pyACR+uBnap7UznQ6PW5gnAj0qAl0U8g=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>uQJBMfjWFaLUqTTm0VHorpRuKSi2TmRRaANy2fGdqQJG7Xa5Ocks9YykI2s+VaoIji9U0zmSRRHdI7U4kna5XjwSidSnneKdWH0ujJnU+iFYnu5DwhuFKNaFu+9RYwoVLKphBApcm5PPfv5qEan+3OvbQezIz4lgskZVv76SheU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="b9360a9b28991eead216f74b531c536f31fa2654dc5c8e576bcfef3ec6fdd243" Description="" Url=""><as:assemblyIdentity name="SerialNumberHD.exe" version="1.0.0.0" publicKeyToken="93dc74dc74b0f1c5" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-4F5NR30\Emerson Maki</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>WPO8qfLdkG509otiGwdJpW1mVEbU6YqozRFZz0bpVZc=</DigestValue></Reference></SignedInfo><SignatureValue>XKfrijNSGDbLKf0zlfCtwxgs5mXoApzy7UpoOEjQM03bcYkqGgbS2F4CG+I/rVOz+WbHuzZh13vy92/dGy2RV09GN4NAIp8+0krWOy59PjKmDIxRtSAJ89AZpIga/zWSUHtUDiN8Rw0N9oRjOQF2R+ke8uXzEJYcTq4fPD7Bvc4=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>uQJBMfjWFaLUqTTm0VHorpRuKSi2TmRRaANy2fGdqQJG7Xa5Ocks9YykI2s+VaoIji9U0zmSRRHdI7U4kna5XjwSidSnneKdWH0ujJnU+iFYnu5DwhuFKNaFu+9RYwoVLKphBApcm5PPfv5qEan+3OvbQezIz4lgskZVv76SheU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIICCTCCAXKgAwIBAgIQLCoLPOfNC4hFekrh7TBfyjANBgkqhkiG9w0BAQsFADBDMUEwPwYDVQQDHjgARABFAFMASwBUAE8AUAAtADQARgA1AE4AUgAzADAAXABFAG0AZQByAHMAbwBuACAATQBhAGsAaTAeFw0yMTAzMjYxNTA4MTJaFw0yMjAzMjYyMTA4MTJaMEMxQTA/BgNVBAMeOABEAEUAUwBLAFQATwBQAC0ANABGADUATgBSADMAMABcAEUAbQBlAHIAcwBvAG4AIABNAGEAawBpMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC5AkEx+NYVotSpNObRUeiulG4pKLZOZFFoA3LZ8Z2pAkbtdrk5ySz1jKQjaz5VqgiOL1TTOZJFEd0jtTiSdrlePBKJ1Ked4p1YfS6MmdT6IVie7kPCG4Uo1oW771FjChUsqmEEClybk89+/moRqf7c69tB7MjPiWCyRlW/vpKF5QIDAQABMA0GCSqGSIb3DQEBCwUAA4GBACv4Z+dsRoKXjkhFmFPsuo2UxDRgexAR3CFfEGTqRQhkvbuEdnsv9ofHuO/pMrETElXQ5xC0lfC2kMoVs4ZPG/1BEJX402E6twtvK6mmhauRdnjnbsG+QOlbHbfyVSW/4c/np+loGFHzj9O+IOgFinew52AgT9J03vTu3kYK9KHG</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
