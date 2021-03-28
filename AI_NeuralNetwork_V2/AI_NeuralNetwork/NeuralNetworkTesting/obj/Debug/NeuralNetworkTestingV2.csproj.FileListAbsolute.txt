@@ -1,0 +1,9 @@
+D:\csharp\AI_NeuralNetwork_V2\AI_NeuralNetwork\NeuralNetworkTesting\bin\Debug\NeuralNetworkTesting.exe
+D:\csharp\AI_NeuralNetwork_V2\AI_NeuralNetwork\NeuralNetworkTesting\bin\Debug\NeuralNetworkTesting.pdb
+D:\csharp\AI_NeuralNetwork_V2\AI_NeuralNetwork\NeuralNetworkTesting\obj\Debug\NeuralNetworkTestingV2.csprojAssemblyReference.cache
+D:\csharp\AI_NeuralNetwork_V2\AI_NeuralNetwork\NeuralNetworkTesting\obj\Debug\NeuralNetworkTesting.Form1.resources
+D:\csharp\AI_NeuralNetwork_V2\AI_NeuralNetwork\NeuralNetworkTesting\obj\Debug\NeuralNetworkTesting.Properties.Resources.resources
+D:\csharp\AI_NeuralNetwork_V2\AI_NeuralNetwork\NeuralNetworkTesting\obj\Debug\NeuralNetworkTestingV2.csproj.GenerateResource.cache
+D:\csharp\AI_NeuralNetwork_V2\AI_NeuralNetwork\NeuralNetworkTesting\obj\Debug\NeuralNetworkTestingV2.csproj.CoreCompileInputs.cache
+D:\csharp\AI_NeuralNetwork_V2\AI_NeuralNetwork\NeuralNetworkTesting\obj\Debug\NeuralNetworkTesting.exe
+D:\csharp\AI_NeuralNetwork_V2\AI_NeuralNetwork\NeuralNetworkTesting\obj\Debug\NeuralNetworkTesting.pdb
