@@ -1,0 +1,12 @@
+D:\csharp\ReverseAStringUsingStack\bin\Debug\netcoreapp3.1\ReverseAStringUsingStack.exe
+D:\csharp\ReverseAStringUsingStack\bin\Debug\netcoreapp3.1\ReverseAStringUsingStack.deps.json
+D:\csharp\ReverseAStringUsingStack\bin\Debug\netcoreapp3.1\ReverseAStringUsingStack.runtimeconfig.json
+D:\csharp\ReverseAStringUsingStack\bin\Debug\netcoreapp3.1\ReverseAStringUsingStack.runtimeconfig.dev.json
+D:\csharp\ReverseAStringUsingStack\bin\Debug\netcoreapp3.1\ReverseAStringUsingStack.dll
+D:\csharp\ReverseAStringUsingStack\bin\Debug\netcoreapp3.1\ReverseAStringUsingStack.pdb
+D:\csharp\ReverseAStringUsingStack\obj\Debug\netcoreapp3.1\ReverseAStringUsingStack.AssemblyInfoInputs.cache
+D:\csharp\ReverseAStringUsingStack\obj\Debug\netcoreapp3.1\ReverseAStringUsingStack.AssemblyInfo.cs
+D:\csharp\ReverseAStringUsingStack\obj\Debug\netcoreapp3.1\ReverseAStringUsingStack.csproj.CoreCompileInputs.cache
+D:\csharp\ReverseAStringUsingStack\obj\Debug\netcoreapp3.1\ReverseAStringUsingStack.dll
+D:\csharp\ReverseAStringUsingStack\obj\Debug\netcoreapp3.1\ReverseAStringUsingStack.pdb
+D:\csharp\ReverseAStringUsingStack\obj\Debug\netcoreapp3.1\ReverseAStringUsingStack.genruntimeconfig.cache
