@@ -1,0 +1,13 @@
+D:\csharp\Palindrome01\bin\Debug\netcoreapp3.1\Palindrome01.exe
+D:\csharp\Palindrome01\bin\Debug\netcoreapp3.1\Palindrome01.deps.json
+D:\csharp\Palindrome01\bin\Debug\netcoreapp3.1\Palindrome01.runtimeconfig.json
+D:\csharp\Palindrome01\bin\Debug\netcoreapp3.1\Palindrome01.runtimeconfig.dev.json
+D:\csharp\Palindrome01\bin\Debug\netcoreapp3.1\Palindrome01.dll
+D:\csharp\Palindrome01\bin\Debug\netcoreapp3.1\Palindrome01.pdb
+D:\csharp\Palindrome01\obj\Debug\netcoreapp3.1\Palindrome01.csprojAssemblyReference.cache
+D:\csharp\Palindrome01\obj\Debug\netcoreapp3.1\Palindrome01.AssemblyInfoInputs.cache
+D:\csharp\Palindrome01\obj\Debug\netcoreapp3.1\Palindrome01.AssemblyInfo.cs
+D:\csharp\Palindrome01\obj\Debug\netcoreapp3.1\Palindrome01.csproj.CoreCompileInputs.cache
+D:\csharp\Palindrome01\obj\Debug\netcoreapp3.1\Palindrome01.dll
+D:\csharp\Palindrome01\obj\Debug\netcoreapp3.1\Palindrome01.pdb
+D:\csharp\Palindrome01\obj\Debug\netcoreapp3.1\Palindrome01.genruntimeconfig.cache
