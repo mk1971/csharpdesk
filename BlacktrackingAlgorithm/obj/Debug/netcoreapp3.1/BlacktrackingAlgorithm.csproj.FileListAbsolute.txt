@@ -1,0 +1,13 @@
+D:\csharp\BlacktrackingAlgorithm\obj\Debug\netcoreapp3.1\BlacktrackingAlgorithm.csprojAssemblyReference.cache
+D:\csharp\BlacktrackingAlgorithm\obj\Debug\netcoreapp3.1\BlacktrackingAlgorithm.AssemblyInfoInputs.cache
+D:\csharp\BlacktrackingAlgorithm\obj\Debug\netcoreapp3.1\BlacktrackingAlgorithm.AssemblyInfo.cs
+D:\csharp\BlacktrackingAlgorithm\obj\Debug\netcoreapp3.1\BlacktrackingAlgorithm.csproj.CoreCompileInputs.cache
+D:\csharp\BlacktrackingAlgorithm\bin\Debug\netcoreapp3.1\BlacktrackingAlgorithm.exe
+D:\csharp\BlacktrackingAlgorithm\bin\Debug\netcoreapp3.1\BlacktrackingAlgorithm.deps.json
+D:\csharp\BlacktrackingAlgorithm\bin\Debug\netcoreapp3.1\BlacktrackingAlgorithm.runtimeconfig.json
+D:\csharp\BlacktrackingAlgorithm\bin\Debug\netcoreapp3.1\BlacktrackingAlgorithm.runtimeconfig.dev.json
+D:\csharp\BlacktrackingAlgorithm\bin\Debug\netcoreapp3.1\BlacktrackingAlgorithm.dll
+D:\csharp\BlacktrackingAlgorithm\bin\Debug\netcoreapp3.1\BlacktrackingAlgorithm.pdb
+D:\csharp\BlacktrackingAlgorithm\obj\Debug\netcoreapp3.1\BlacktrackingAlgorithm.dll
+D:\csharp\BlacktrackingAlgorithm\obj\Debug\netcoreapp3.1\BlacktrackingAlgorithm.pdb
+D:\csharp\BlacktrackingAlgorithm\obj\Debug\netcoreapp3.1\BlacktrackingAlgorithm.genruntimeconfig.cache
