@@ -1,0 +1,12 @@
+D:\csharp\SolvingNQueens\bin\Debug\netcoreapp3.1\SolvingNQueens.exe
+D:\csharp\SolvingNQueens\bin\Debug\netcoreapp3.1\SolvingNQueens.deps.json
+D:\csharp\SolvingNQueens\bin\Debug\netcoreapp3.1\SolvingNQueens.runtimeconfig.json
+D:\csharp\SolvingNQueens\bin\Debug\netcoreapp3.1\SolvingNQueens.runtimeconfig.dev.json
+D:\csharp\SolvingNQueens\bin\Debug\netcoreapp3.1\SolvingNQueens.dll
+D:\csharp\SolvingNQueens\bin\Debug\netcoreapp3.1\SolvingNQueens.pdb
+D:\csharp\SolvingNQueens\obj\Debug\netcoreapp3.1\SolvingNQueens.AssemblyInfoInputs.cache
+D:\csharp\SolvingNQueens\obj\Debug\netcoreapp3.1\SolvingNQueens.AssemblyInfo.cs
+D:\csharp\SolvingNQueens\obj\Debug\netcoreapp3.1\SolvingNQueens.csproj.CoreCompileInputs.cache
+D:\csharp\SolvingNQueens\obj\Debug\netcoreapp3.1\SolvingNQueens.dll
+D:\csharp\SolvingNQueens\obj\Debug\netcoreapp3.1\SolvingNQueens.pdb
+D:\csharp\SolvingNQueens\obj\Debug\netcoreapp3.1\SolvingNQueens.genruntimeconfig.cache
