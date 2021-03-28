@@ -1,0 +1,6 @@
+E:\AK combany\AK School\C# Corner\SymmetricTutorial\SymmetricTutorial\bin\Debug\SymmetricTutorial.exe.config
+E:\AK combany\AK School\C# Corner\SymmetricTutorial\SymmetricTutorial\bin\Debug\SymmetricTutorial.exe
+E:\AK combany\AK School\C# Corner\SymmetricTutorial\SymmetricTutorial\bin\Debug\SymmetricTutorial.pdb
+E:\AK combany\AK School\C# Corner\SymmetricTutorial\SymmetricTutorial\obj\Debug\SymmetricTutorial.csprojResolveAssemblyReference.cache
+E:\AK combany\AK School\C# Corner\SymmetricTutorial\SymmetricTutorial\obj\Debug\SymmetricTutorial.exe
+E:\AK combany\AK School\C# Corner\SymmetricTutorial\SymmetricTutorial\obj\Debug\SymmetricTutorial.pdb
