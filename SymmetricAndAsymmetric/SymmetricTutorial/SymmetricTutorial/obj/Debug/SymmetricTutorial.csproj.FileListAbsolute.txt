@@ -4,3 +4,9 @@ E:\AK combany\AK School\C# Corner\SymmetricTutorial\SymmetricTutorial\bin\Debug\
 E:\AK combany\AK School\C# Corner\SymmetricTutorial\SymmetricTutorial\obj\Debug\SymmetricTutorial.csprojResolveAssemblyReference.cache
 E:\AK combany\AK School\C# Corner\SymmetricTutorial\SymmetricTutorial\obj\Debug\SymmetricTutorial.exe
 E:\AK combany\AK School\C# Corner\SymmetricTutorial\SymmetricTutorial\obj\Debug\SymmetricTutorial.pdb
+D:\csharp\SymmetricAndAsymmetric\SymmetricTutorial\SymmetricTutorial\bin\Debug\SymmetricTutorial.exe.config
+D:\csharp\SymmetricAndAsymmetric\SymmetricTutorial\SymmetricTutorial\bin\Debug\SymmetricTutorial.exe
+D:\csharp\SymmetricAndAsymmetric\SymmetricTutorial\SymmetricTutorial\bin\Debug\SymmetricTutorial.pdb
+D:\csharp\SymmetricAndAsymmetric\SymmetricTutorial\SymmetricTutorial\obj\Debug\SymmetricTutorial.csproj.CoreCompileInputs.cache
+D:\csharp\SymmetricAndAsymmetric\SymmetricTutorial\SymmetricTutorial\obj\Debug\SymmetricTutorial.exe
+D:\csharp\SymmetricAndAsymmetric\SymmetricTutorial\SymmetricTutorial\obj\Debug\SymmetricTutorial.pdb
