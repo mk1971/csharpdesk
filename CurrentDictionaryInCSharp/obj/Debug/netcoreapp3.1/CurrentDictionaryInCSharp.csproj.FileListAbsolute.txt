@@ -1,0 +1,13 @@
+D:\csharp\CurrentDictionaryInCSharp\bin\Debug\netcoreapp3.1\CurrentDictionaryInCSharp.exe
+D:\csharp\CurrentDictionaryInCSharp\bin\Debug\netcoreapp3.1\CurrentDictionaryInCSharp.deps.json
+D:\csharp\CurrentDictionaryInCSharp\bin\Debug\netcoreapp3.1\CurrentDictionaryInCSharp.runtimeconfig.json
+D:\csharp\CurrentDictionaryInCSharp\bin\Debug\netcoreapp3.1\CurrentDictionaryInCSharp.runtimeconfig.dev.json
+D:\csharp\CurrentDictionaryInCSharp\bin\Debug\netcoreapp3.1\CurrentDictionaryInCSharp.dll
+D:\csharp\CurrentDictionaryInCSharp\bin\Debug\netcoreapp3.1\CurrentDictionaryInCSharp.pdb
+D:\csharp\CurrentDictionaryInCSharp\obj\Debug\netcoreapp3.1\CurrentDictionaryInCSharp.csprojAssemblyReference.cache
+D:\csharp\CurrentDictionaryInCSharp\obj\Debug\netcoreapp3.1\CurrentDictionaryInCSharp.AssemblyInfoInputs.cache
+D:\csharp\CurrentDictionaryInCSharp\obj\Debug\netcoreapp3.1\CurrentDictionaryInCSharp.AssemblyInfo.cs
+D:\csharp\CurrentDictionaryInCSharp\obj\Debug\netcoreapp3.1\CurrentDictionaryInCSharp.csproj.CoreCompileInputs.cache
+D:\csharp\CurrentDictionaryInCSharp\obj\Debug\netcoreapp3.1\CurrentDictionaryInCSharp.dll
+D:\csharp\CurrentDictionaryInCSharp\obj\Debug\netcoreapp3.1\CurrentDictionaryInCSharp.pdb
+D:\csharp\CurrentDictionaryInCSharp\obj\Debug\netcoreapp3.1\CurrentDictionaryInCSharp.genruntimeconfig.cache
