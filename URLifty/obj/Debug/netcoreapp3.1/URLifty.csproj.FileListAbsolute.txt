@@ -1,0 +1,12 @@
+D:\csharp\URLifty\obj\Debug\netcoreapp3.1\URLifty.AssemblyInfoInputs.cache
+D:\csharp\URLifty\obj\Debug\netcoreapp3.1\URLifty.AssemblyInfo.cs
+D:\csharp\URLifty\obj\Debug\netcoreapp3.1\URLifty.csproj.CoreCompileInputs.cache
+D:\csharp\URLifty\bin\Debug\netcoreapp3.1\URLifty.exe
+D:\csharp\URLifty\bin\Debug\netcoreapp3.1\URLifty.deps.json
+D:\csharp\URLifty\bin\Debug\netcoreapp3.1\URLifty.runtimeconfig.json
+D:\csharp\URLifty\bin\Debug\netcoreapp3.1\URLifty.runtimeconfig.dev.json
+D:\csharp\URLifty\bin\Debug\netcoreapp3.1\URLifty.dll
+D:\csharp\URLifty\bin\Debug\netcoreapp3.1\URLifty.pdb
+D:\csharp\URLifty\obj\Debug\netcoreapp3.1\URLifty.dll
+D:\csharp\URLifty\obj\Debug\netcoreapp3.1\URLifty.pdb
+D:\csharp\URLifty\obj\Debug\netcoreapp3.1\URLifty.genruntimeconfig.cache

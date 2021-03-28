@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "URLifty", "URLifty.csproj", "{5B436C01-598B-43F1-A6F4-CC0A8C4FE715}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B436C01-598B-43F1-A6F4-CC0A8C4FE715}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B436C01-598B-43F1-A6F4-CC0A8C4FE715}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B436C01-598B-43F1-A6F4-CC0A8C4FE715}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B436C01-598B-43F1-A6F4-CC0A8C4FE715}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3580828B-AAE9-42F0-85B9-4464A5F85AB4}
+	EndGlobalSection
+EndGlobal
