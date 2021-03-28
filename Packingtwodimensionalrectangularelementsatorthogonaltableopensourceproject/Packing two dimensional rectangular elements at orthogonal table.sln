@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Packing two dimensional rectangular elements at orthogonal table", "Packing two dimensional rectangular elements at orthogonal table\Packing two dimensional rectangular elements at orthogonal table.csproj", "{24381CB0-3964-41C3-BE78-51194810B7DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24381CB0-3964-41C3-BE78-51194810B7DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24381CB0-3964-41C3-BE78-51194810B7DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24381CB0-3964-41C3-BE78-51194810B7DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24381CB0-3964-41C3-BE78-51194810B7DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

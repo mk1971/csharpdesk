@@ -1,0 +1,14 @@
+D:\PROJEKTI\Packing two dimensional rectangular elements at orthogonal table\Packing two dimensional rectangular elements at orthogonal table\bin\Release\Packing two dimensional rectangular elements at orthogonal table.exe.config
+D:\PROJEKTI\Packing two dimensional rectangular elements at orthogonal table\Packing two dimensional rectangular elements at orthogonal table\bin\Release\Packing two dimensional rectangular elements at orthogonal table.exe
+D:\PROJEKTI\Packing two dimensional rectangular elements at orthogonal table\Packing two dimensional rectangular elements at orthogonal table\obj\Release\ResolveAssemblyReference.cache
+D:\PROJEKTI\Packing two dimensional rectangular elements at orthogonal table\Packing two dimensional rectangular elements at orthogonal table\obj\Release\Packing_two_dimensional_rectangular_elements_at_orthogonal_table.MainForm.resources
+D:\PROJEKTI\Packing two dimensional rectangular elements at orthogonal table\Packing two dimensional rectangular elements at orthogonal table\obj\Release\GenerateResource.read.1.tlog
+D:\PROJEKTI\Packing two dimensional rectangular elements at orthogonal table\Packing two dimensional rectangular elements at orthogonal table\obj\Release\GenerateResource.write.1.tlog
+D:\PROJEKTI\Packing two dimensional rectangular elements at orthogonal table\Packing two dimensional rectangular elements at orthogonal table\obj\Release\Packing two dimensional rectangular elements at orthogonal table.exe
+D:\PROJEKTI\Moj sajt\Matematika\Packing elements\Packing two dimensional rectangular elements at orthogonal table\bin\Release\Packing two dimensional rectangular elements at orthogonal table.exe.config
+D:\PROJEKTI\Moj sajt\Matematika\Packing elements\Packing two dimensional rectangular elements at orthogonal table\bin\Release\Packing two dimensional rectangular elements at orthogonal table.exe
+D:\PROJEKTI\Moj sajt\Matematika\Packing elements\Packing two dimensional rectangular elements at orthogonal table\obj\Release\ResolveAssemblyReference.cache
+D:\PROJEKTI\Moj sajt\Matematika\Packing elements\Packing two dimensional rectangular elements at orthogonal table\obj\Release\Packing_two_dimensional_rectangular_elements_at_orthogonal_table.MainForm.resources
+D:\PROJEKTI\Moj sajt\Matematika\Packing elements\Packing two dimensional rectangular elements at orthogonal table\obj\Release\GenerateResource.read.1.tlog
+D:\PROJEKTI\Moj sajt\Matematika\Packing elements\Packing two dimensional rectangular elements at orthogonal table\obj\Release\GenerateResource.write.1.tlog
+D:\PROJEKTI\Moj sajt\Matematika\Packing elements\Packing two dimensional rectangular elements at orthogonal table\obj\Release\Packing two dimensional rectangular elements at orthogonal table.exe
