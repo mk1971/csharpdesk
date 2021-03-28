@@ -1,0 +1,13 @@
+D:\csharp\SortStringAlpha\bin\Debug\netcoreapp3.1\SortStringAlpha.exe
+D:\csharp\SortStringAlpha\bin\Debug\netcoreapp3.1\SortStringAlpha.deps.json
+D:\csharp\SortStringAlpha\bin\Debug\netcoreapp3.1\SortStringAlpha.runtimeconfig.json
+D:\csharp\SortStringAlpha\bin\Debug\netcoreapp3.1\SortStringAlpha.runtimeconfig.dev.json
+D:\csharp\SortStringAlpha\bin\Debug\netcoreapp3.1\SortStringAlpha.dll
+D:\csharp\SortStringAlpha\bin\Debug\netcoreapp3.1\SortStringAlpha.pdb
+D:\csharp\SortStringAlpha\obj\Debug\netcoreapp3.1\SortStringAlpha.csprojAssemblyReference.cache
+D:\csharp\SortStringAlpha\obj\Debug\netcoreapp3.1\SortStringAlpha.AssemblyInfoInputs.cache
+D:\csharp\SortStringAlpha\obj\Debug\netcoreapp3.1\SortStringAlpha.AssemblyInfo.cs
+D:\csharp\SortStringAlpha\obj\Debug\netcoreapp3.1\SortStringAlpha.csproj.CoreCompileInputs.cache
+D:\csharp\SortStringAlpha\obj\Debug\netcoreapp3.1\SortStringAlpha.dll
+D:\csharp\SortStringAlpha\obj\Debug\netcoreapp3.1\SortStringAlpha.pdb
+D:\csharp\SortStringAlpha\obj\Debug\netcoreapp3.1\SortStringAlpha.genruntimeconfig.cache
