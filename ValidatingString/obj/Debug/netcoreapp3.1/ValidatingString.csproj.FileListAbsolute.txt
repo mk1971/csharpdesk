@@ -1,0 +1,12 @@
+D:\csharp\ValidatingString\bin\Debug\netcoreapp3.1\ValidatingString.exe
+D:\csharp\ValidatingString\bin\Debug\netcoreapp3.1\ValidatingString.deps.json
+D:\csharp\ValidatingString\bin\Debug\netcoreapp3.1\ValidatingString.runtimeconfig.json
+D:\csharp\ValidatingString\bin\Debug\netcoreapp3.1\ValidatingString.runtimeconfig.dev.json
+D:\csharp\ValidatingString\bin\Debug\netcoreapp3.1\ValidatingString.dll
+D:\csharp\ValidatingString\bin\Debug\netcoreapp3.1\ValidatingString.pdb
+D:\csharp\ValidatingString\obj\Debug\netcoreapp3.1\ValidatingString.AssemblyInfoInputs.cache
+D:\csharp\ValidatingString\obj\Debug\netcoreapp3.1\ValidatingString.AssemblyInfo.cs
+D:\csharp\ValidatingString\obj\Debug\netcoreapp3.1\ValidatingString.csproj.CoreCompileInputs.cache
+D:\csharp\ValidatingString\obj\Debug\netcoreapp3.1\ValidatingString.dll
+D:\csharp\ValidatingString\obj\Debug\netcoreapp3.1\ValidatingString.pdb
+D:\csharp\ValidatingString\obj\Debug\netcoreapp3.1\ValidatingString.genruntimeconfig.cache
