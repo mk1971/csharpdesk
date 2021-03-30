@@ -1,0 +1,13 @@
+D:\csharp\DiacriticsRemover\obj\Debug\netcoreapp3.1\DiacriticsRemover.csprojAssemblyReference.cache
+D:\csharp\DiacriticsRemover\obj\Debug\netcoreapp3.1\DiacriticsRemover.AssemblyInfoInputs.cache
+D:\csharp\DiacriticsRemover\obj\Debug\netcoreapp3.1\DiacriticsRemover.AssemblyInfo.cs
+D:\csharp\DiacriticsRemover\obj\Debug\netcoreapp3.1\DiacriticsRemover.csproj.CoreCompileInputs.cache
+D:\csharp\DiacriticsRemover\bin\Debug\netcoreapp3.1\DiacriticsRemover.exe
+D:\csharp\DiacriticsRemover\bin\Debug\netcoreapp3.1\DiacriticsRemover.deps.json
+D:\csharp\DiacriticsRemover\bin\Debug\netcoreapp3.1\DiacriticsRemover.runtimeconfig.json
+D:\csharp\DiacriticsRemover\bin\Debug\netcoreapp3.1\DiacriticsRemover.runtimeconfig.dev.json
+D:\csharp\DiacriticsRemover\bin\Debug\netcoreapp3.1\DiacriticsRemover.dll
+D:\csharp\DiacriticsRemover\bin\Debug\netcoreapp3.1\DiacriticsRemover.pdb
+D:\csharp\DiacriticsRemover\obj\Debug\netcoreapp3.1\DiacriticsRemover.dll
+D:\csharp\DiacriticsRemover\obj\Debug\netcoreapp3.1\DiacriticsRemover.pdb
+D:\csharp\DiacriticsRemover\obj\Debug\netcoreapp3.1\DiacriticsRemover.genruntimeconfig.cache
