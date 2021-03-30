@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleCatch_03", "MultipleCatch_03.csproj", "{67947C28-7419-4A99-A19C-060883026143}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67947C28-7419-4A99-A19C-060883026143}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67947C28-7419-4A99-A19C-060883026143}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67947C28-7419-4A99-A19C-060883026143}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67947C28-7419-4A99-A19C-060883026143}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAD3689E-BD92-4E50-8D34-B3B917BB248A}
+	EndGlobalSection
+EndGlobal
