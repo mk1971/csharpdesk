@@ -1,0 +1,13 @@
+D:\csharp\Validation\bin\Debug\netcoreapp3.1\Validation.exe
+D:\csharp\Validation\bin\Debug\netcoreapp3.1\Validation.deps.json
+D:\csharp\Validation\bin\Debug\netcoreapp3.1\Validation.runtimeconfig.json
+D:\csharp\Validation\bin\Debug\netcoreapp3.1\Validation.runtimeconfig.dev.json
+D:\csharp\Validation\bin\Debug\netcoreapp3.1\Validation.dll
+D:\csharp\Validation\bin\Debug\netcoreapp3.1\Validation.pdb
+D:\csharp\Validation\obj\Debug\netcoreapp3.1\Validation.csprojAssemblyReference.cache
+D:\csharp\Validation\obj\Debug\netcoreapp3.1\Validation.AssemblyInfoInputs.cache
+D:\csharp\Validation\obj\Debug\netcoreapp3.1\Validation.AssemblyInfo.cs
+D:\csharp\Validation\obj\Debug\netcoreapp3.1\Validation.csproj.CoreCompileInputs.cache
+D:\csharp\Validation\obj\Debug\netcoreapp3.1\Validation.dll
+D:\csharp\Validation\obj\Debug\netcoreapp3.1\Validation.pdb
+D:\csharp\Validation\obj\Debug\netcoreapp3.1\Validation.genruntimeconfig.cache
