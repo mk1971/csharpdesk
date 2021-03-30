@@ -1,0 +1,12 @@
+D:\csharp\PrefixPostfix_03\bin\Debug\netcoreapp3.1\PrefixPostfix_03.exe
+D:\csharp\PrefixPostfix_03\bin\Debug\netcoreapp3.1\PrefixPostfix_03.deps.json
+D:\csharp\PrefixPostfix_03\bin\Debug\netcoreapp3.1\PrefixPostfix_03.runtimeconfig.json
+D:\csharp\PrefixPostfix_03\bin\Debug\netcoreapp3.1\PrefixPostfix_03.runtimeconfig.dev.json
+D:\csharp\PrefixPostfix_03\bin\Debug\netcoreapp3.1\PrefixPostfix_03.dll
+D:\csharp\PrefixPostfix_03\bin\Debug\netcoreapp3.1\PrefixPostfix_03.pdb
+D:\csharp\PrefixPostfix_03\obj\Debug\netcoreapp3.1\PrefixPostfix_03.AssemblyInfoInputs.cache
+D:\csharp\PrefixPostfix_03\obj\Debug\netcoreapp3.1\PrefixPostfix_03.AssemblyInfo.cs
+D:\csharp\PrefixPostfix_03\obj\Debug\netcoreapp3.1\PrefixPostfix_03.csproj.CoreCompileInputs.cache
+D:\csharp\PrefixPostfix_03\obj\Debug\netcoreapp3.1\PrefixPostfix_03.dll
+D:\csharp\PrefixPostfix_03\obj\Debug\netcoreapp3.1\PrefixPostfix_03.pdb
+D:\csharp\PrefixPostfix_03\obj\Debug\netcoreapp3.1\PrefixPostfix_03.genruntimeconfig.cache
