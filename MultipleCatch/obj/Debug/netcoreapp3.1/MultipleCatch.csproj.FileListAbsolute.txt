@@ -1,0 +1,13 @@
+D:\csharp\MultipleCatch\bin\Debug\netcoreapp3.1\MultipleCatch.exe
+D:\csharp\MultipleCatch\bin\Debug\netcoreapp3.1\MultipleCatch.deps.json
+D:\csharp\MultipleCatch\bin\Debug\netcoreapp3.1\MultipleCatch.runtimeconfig.json
+D:\csharp\MultipleCatch\bin\Debug\netcoreapp3.1\MultipleCatch.runtimeconfig.dev.json
+D:\csharp\MultipleCatch\bin\Debug\netcoreapp3.1\MultipleCatch.dll
+D:\csharp\MultipleCatch\bin\Debug\netcoreapp3.1\MultipleCatch.pdb
+D:\csharp\MultipleCatch\obj\Debug\netcoreapp3.1\MultipleCatch.csprojAssemblyReference.cache
+D:\csharp\MultipleCatch\obj\Debug\netcoreapp3.1\MultipleCatch.AssemblyInfoInputs.cache
+D:\csharp\MultipleCatch\obj\Debug\netcoreapp3.1\MultipleCatch.AssemblyInfo.cs
+D:\csharp\MultipleCatch\obj\Debug\netcoreapp3.1\MultipleCatch.csproj.CoreCompileInputs.cache
+D:\csharp\MultipleCatch\obj\Debug\netcoreapp3.1\MultipleCatch.dll
+D:\csharp\MultipleCatch\obj\Debug\netcoreapp3.1\MultipleCatch.pdb
+D:\csharp\MultipleCatch\obj\Debug\netcoreapp3.1\MultipleCatch.genruntimeconfig.cache
