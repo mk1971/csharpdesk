@@ -1,0 +1,12 @@
+D:\csharp\ExceptionsSimples\bin\Debug\netcoreapp3.1\ExceptionsSimples.exe
+D:\csharp\ExceptionsSimples\bin\Debug\netcoreapp3.1\ExceptionsSimples.deps.json
+D:\csharp\ExceptionsSimples\bin\Debug\netcoreapp3.1\ExceptionsSimples.runtimeconfig.json
+D:\csharp\ExceptionsSimples\bin\Debug\netcoreapp3.1\ExceptionsSimples.runtimeconfig.dev.json
+D:\csharp\ExceptionsSimples\bin\Debug\netcoreapp3.1\ExceptionsSimples.dll
+D:\csharp\ExceptionsSimples\bin\Debug\netcoreapp3.1\ExceptionsSimples.pdb
+D:\csharp\ExceptionsSimples\obj\Debug\netcoreapp3.1\ExceptionsSimples.AssemblyInfoInputs.cache
+D:\csharp\ExceptionsSimples\obj\Debug\netcoreapp3.1\ExceptionsSimples.AssemblyInfo.cs
+D:\csharp\ExceptionsSimples\obj\Debug\netcoreapp3.1\ExceptionsSimples.csproj.CoreCompileInputs.cache
+D:\csharp\ExceptionsSimples\obj\Debug\netcoreapp3.1\ExceptionsSimples.dll
+D:\csharp\ExceptionsSimples\obj\Debug\netcoreapp3.1\ExceptionsSimples.pdb
+D:\csharp\ExceptionsSimples\obj\Debug\netcoreapp3.1\ExceptionsSimples.genruntimeconfig.cache
